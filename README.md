@@ -1,23 +1,23 @@
 <!--- PrjInfo ---> <!--- Please remove this line after manually editing --->
 <!--- 00a56be08b96043df9e37d6aff7b6990 --->
-<!--- Created:2019-04-08 14:18:05.740877: ---> 
-<!--- Author:: ---> 
-<!--- AuthorEmail:: ---> 
-<!--- Tags:: ---> 
-<!--- Ust:: ---> 
+<!--- Created:2019-04-08 14:18:05.740877: --->
+<!--- Author:: --->
+<!--- AuthorEmail:: --->
+<!--- Tags:: --->
+<!--- Ust:: --->
 <!--- Label --->
-<!--- ELabel ---> 
+<!--- ELabel --->
 <!--- Name:STEPUPDC02A: --->
 # STEPUPDC02A
 <!--- LongName --->
-## 
-<!--- ELongName ---> 
+##
+<!--- ELongName --->
 
 <!--- Lead --->
 
-<!--- ELead ---> 
+<!--- ELead --->
 
-![STEPUPDC02A](doc/img/STEPUPDC02A_QRcode.png) 
+![STEPUPDC02A](doc/img/STEPUPDC02A.png) 
 
 
 <!--- Description --->
