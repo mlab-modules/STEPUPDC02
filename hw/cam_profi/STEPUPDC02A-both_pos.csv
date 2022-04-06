@@ -1,0 +1,11 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","22p","SMD-0805",3.0480,15.9385,90.0000,bottom
+"C2","1uF/50V","SMD-0805",7.7470,15.9385,90.0000,bottom
+"C5","15uF/35V","TantalC_SizeC_Reflow",9.2558,11.6840,180.0000,bottom
+"C6","4u7","SMD-0805",6.9215,28.0670,180.0000,bottom
+"D1","STPS340U","D_SMB",11.4300,18.0340,90.0000,bottom
+"D2","ZSMD-5V6","D_MiniMELF",10.1600,30.9880,90.0000,bottom
+"R1","10k","SMD-0805",3.4290,28.7020,-90.0000,bottom
+"R2","1M8","SMD-0805",5.3340,15.9385,90.0000,bottom
+"R4","80k6","SMD-0805",6.6675,18.9230,0.0000,bottom
+"U1","TPS61041","SOT-23-5_HandSoldering",6.4160,23.7020,90.0000,bottom
