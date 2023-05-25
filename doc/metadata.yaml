@@ -1,0 +1,25 @@
+description: Step-up converter. Vin 1,8 V - 5 V, Vout up to 28 V.
+github_branch: STEPUPDC02A
+github_branches:
+- STEPUPDC02A
+github_repo: STEPUPDC02
+github_url: https://github.com/mlab-modules/STEPUPDC02
+homepage: false
+image: doc/img/STEPUPDC02A.png
+images:
+- doc/img/STEPUPDC02A.png
+- doc/img/STEPUPDC02A_QRcode.png
+- doc/gen/img/STEPUPDC02A-bottom.png
+- doc/gen/img/STEPUPDC02A-top.png
+- doc/gen/STEPUPDC02A-schematic.svg
+issues: 0
+mark: 50
+mod_scheme: doc/gen/STEPUPDC02A-schematic.pdf
+tags:
+- switchingsource
+- step-up
+- switching-power
+- source
+- stepup
+- power
+title: STEPUPDC02

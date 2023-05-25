@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/STEPUPDC02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/STEPUPDC02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/STEPUPDC02
+summary: Step-up converter. Vin 1,8 V - 5 V, Vout up to 28 V.
