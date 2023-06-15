@@ -7,8 +7,8 @@ github_url: https://github.com/mlab-modules/STEPUPDC02
 homepage: false
 image: doc/img/STEPUPDC02A.png
 images:
-- doc/img/STEPUPDC02A.png
 - doc/img/STEPUPDC02A_QRcode.png
+- doc/img/STEPUPDC02A.png
 - doc/gen/img/STEPUPDC02A-bottom.png
 - doc/gen/img/STEPUPDC02A-top.png
 - doc/gen/STEPUPDC02A-schematic.svg
