@@ -9,12 +9,17 @@ image: doc/img/STEPUPDC02A.png
 images:
 - doc/img/STEPUPDC02A_QRcode.png
 - doc/img/STEPUPDC02A.png
-- doc/gen/img/STEPUPDC02A-top.png
-- doc/gen/img/STEPUPDC02A-bottom.png
-- doc/gen/STEPUPDC02A-schematic.svg
+- doc/gen/img/STEPUPDC02-top.png
+- doc/gen/img/STEPUPDC02-bottom.png
+- doc/gen/STEPUPDC02-schematic.svg
+- doc/gen/img/STEPUPDC02-bottom.svg
+- doc/gen/img/STEPUPDC02-top.svg
+- hw/cam_profi/docs/STEPUPDC02A-assembly_page_01.svg
+- hw/cam_profi/docs/STEPUPDC02A-assembly_page_02.svg
 issues: 0
 mark: 50
-mod_scheme: doc/gen/STEPUPDC02A-schematic.pdf
+mod_ibom: hw/cam_profi/ibom/STEPUPDC02-ibom.html
+mod_scheme: doc/gen/STEPUPDC02-schematic.pdf
 tags:
 - switchingsource
 - step-up
