@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/github/workspace/hw/sch_pcb/STEPUPDC02A.kicad_sch</source>
-    <date>Wed Apr  6 12:53:29 2022</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <source>/github/workspace/hw/sch_pcb/STEPUPDC02.kicad_sch</source>
+    <date>Wed Jul  5 12:11:41 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>STEPUPDC02A</title>
         <company/>
         <rev/>
         <date/>
-        <source>STEPUPDC02A.kicad_sch</source>
+        <source>STEPUPDC02.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -33,7 +33,7 @@
       <libsource lib="device" part="C" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b34"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bcc3c</tstamps>
     </comp>
@@ -46,7 +46,7 @@
       <libsource lib="device" part="C" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b6f"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cad3ae2</tstamps>
     </comp>
@@ -59,7 +59,7 @@
       <libsource lib="device" part="CP" description=""/>
       <property name="UST_ID" value="5c70984812875079b91f8bac"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a13ee1f</tstamps>
     </comp>
@@ -72,7 +72,7 @@
       <libsource lib="device" part="C" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8b52"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bbf24</tstamps>
     </comp>
@@ -85,7 +85,7 @@
       <libsource lib="device" part="D_Schottky" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f88ba"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bc5d0</tstamps>
     </comp>
@@ -98,7 +98,7 @@
       <libsource lib="device" part="D_Zener" description=""/>
       <property name="UST_ID" value="5c70984512875079b91f88bc"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cab4ada</tstamps>
     </comp>
@@ -107,7 +107,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="STEPUPDC02A-rescue" part="HEADER_2x03_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a05cf9a</tstamps>
     </comp>
@@ -116,7 +116,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x02" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cab2981</tstamps>
     </comp>
@@ -125,7 +125,7 @@
       <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cad5c42</tstamps>
     </comp>
@@ -138,7 +138,7 @@
       <libsource lib="device" part="L" description=""/>
       <property name="UST_ID" value="5c70984412875079b91f882a"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bc312</tstamps>
     </comp>
@@ -147,7 +147,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="STEPUPDC02A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0e262a</tstamps>
     </comp>
@@ -156,7 +156,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="STEPUPDC02A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0e273f</tstamps>
     </comp>
@@ -165,7 +165,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="STEPUPDC02A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0e281c</tstamps>
     </comp>
@@ -174,7 +174,7 @@
       <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
       <libsource lib="STEPUPDC02A-rescue" part="HOLE" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0e28fa</tstamps>
     </comp>
@@ -187,7 +187,7 @@
       <libsource lib="device" part="R" description=""/>
       <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005cad1a19</tstamps>
     </comp>
@@ -200,7 +200,7 @@
       <libsource lib="device" part="R" description=""/>
       <property name="UST_ID" value="5c70984712875079b91f8aab"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bc719</tstamps>
     </comp>
@@ -213,7 +213,7 @@
       <libsource lib="device" part="R" description=""/>
       <property name="UST_ID" value="5cb467d31287500e61c242d2"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bc925</tstamps>
     </comp>
@@ -226,7 +226,7 @@
       <libsource lib="tps6104" part="TPS6104" description=""/>
       <property name="UST_ID" value="5c70984612875079b91f8a0e"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="STEPUPDC02A.kicad_sch"/>
+      <property name="Sheetfile" value="STEPUPDC02.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005a0bb51a</tstamps>
     </comp>
