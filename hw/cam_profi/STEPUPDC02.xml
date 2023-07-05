@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/STEPUPDC02.kicad_sch</source>
-    <date>Wed Jul  5 12:11:41 2023</date>
-    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
+    <date>Wed Jul  5 13:05:31 2023</date>
+    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>STEPUPDC02A</title>
@@ -436,16 +436,16 @@
       <node ref="R4" pin="2" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
     </net>
-    <net code="5" name="Net-(C1-Pad2)">
+    <net code="5" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="SW" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Net-(U1-FB)">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="FB" pintype="bidirectional"/>
-    </net>
-    <net code="6" name="Net-(D1-Pad2)">
-      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="U1" pin="1" pinfunction="SW" pintype="bidirectional"/>
     </net>
     <net code="7" name="unconnected-(M1-Pad1)">
       <node ref="M1" pin="1" pintype="input"/>
