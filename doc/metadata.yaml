@@ -14,8 +14,8 @@ images:
 - doc/gen/STEPUPDC02-schematic.svg
 - doc/gen/img/STEPUPDC02-bottom.svg
 - doc/gen/img/STEPUPDC02-top.svg
-- hw/cam_profi/docs/STEPUPDC02A-assembly_page_01.svg
 - hw/cam_profi/docs/STEPUPDC02A-assembly_page_02.svg
+- hw/cam_profi/docs/STEPUPDC02A-assembly_page_01.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/STEPUPDC02-ibom.html
