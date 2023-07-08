@@ -5,6 +5,14 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C6","4u7","SMD-0805",6.9215,28.0670,180.0000,bottom
 "D1","STPS1L30U","D_SMB",11.4300,18.0340,90.0000,bottom
 "D2","ZSMD-5V6","D_MiniMELF",10.1600,30.9880,90.0000,bottom
+"J1","POWER","Straight_2x03",17.0180,27.0510,0.0000,top
+"J2","HEADER_1x02","Straight_2x01",2.5400,23.7490,90.0000,top
+"J4","HEADER_2x04_PARALLEL","Straight_2x04",17.0180,13.9700,0.0000,top
+"L1","10u","DJNR5040",11.4300,25.0190,90.0000,bottom
+"M1","HOLE","MountingHole_3mm",15.2400,35.5600,0.0000,top
+"M2","HOLE","MountingHole_3mm",15.2400,5.0800,0.0000,top
+"M3","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"M4","HOLE","MountingHole_3mm",5.0800,35.5600,0.0000,top
 "R1","10k","SMD-0805",3.4290,28.7020,-90.0000,bottom
 "R2","470k","SMD-0805",5.3340,15.9385,90.0000,bottom
 "R4","120k","SMD-0805",6.6675,18.9230,0.0000,bottom
