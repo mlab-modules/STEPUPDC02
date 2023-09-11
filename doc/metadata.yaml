@@ -7,15 +7,15 @@ github_url: https://github.com/mlab-modules/STEPUPDC02
 homepage: false
 image: doc/img/STEPUPDC02A.png
 images:
-- doc/img/STEPUPDC02A_QRcode.png
-- doc/img/STEPUPDC02A.png
-- doc/gen/img/STEPUPDC02-top.png
 - doc/gen/img/STEPUPDC02-bottom.png
+- doc/gen/img/STEPUPDC02-top.png
+- doc/img/STEPUPDC02A.png
+- doc/img/STEPUPDC02A_QRcode.png
 - doc/gen/STEPUPDC02-schematic.svg
-- doc/gen/img/STEPUPDC02-bottom.svg
 - doc/gen/img/STEPUPDC02-top.svg
-- hw/cam_profi/assembly/STEPUPDC02-assembly_page_02.svg
+- doc/gen/img/STEPUPDC02-bottom.svg
 - hw/cam_profi/assembly/STEPUPDC02-assembly_page_01.svg
+- hw/cam_profi/assembly/STEPUPDC02-assembly_page_02.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/STEPUPDC02-ibom.html
@@ -35,4 +35,4 @@ tags:
 - mlab-kicad
 - pcb
 title: STEPUPDC02
-updated: '2023-07-21T03:39:38.808976+00:00'
+updated: '2023-09-11T00:50:16.703287+00:00'
