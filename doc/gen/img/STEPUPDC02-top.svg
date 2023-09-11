@@ -382,7 +382,7 @@
 </g> 
 </g><g id="substrate-silk" style="fill:#0b1013; stroke:#0b1013;" mask="url(#pads-mask-silkscreen)"><g style="fill-opacity: 0.0;stroke-width: 0.3000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
 <g transform="rotate(-90.000000 7.6200 -22.3520)">
-<text x="7.6200" y="-21.7170" textLength="13.7403" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">STEPUPDC02A</text>
+<text x="7.6200" y="-21.7170" textLength="13.8903" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">STEPUPDC02A</text>
 </g>
 <g class="stroked-text"><desc>STEPUPDC02A</desc>
 <path d="M8.1314 -15.9718 L8.1919 -16.1532 "/>
@@ -499,7 +499,7 @@
 <path d="M7.8291 -28.1275 L7.8291 -28.7322 "/>
 <path d="M8.1919 -28.0065 L6.9219 -28.4299 "/>
 <path d="M6.9219 -28.4299 L8.1919 -28.8532 "/>
-</g><text x="4.0640" y="-13.0810" textLength="6.4831" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">JACHO</text>
+</g><text x="4.0640" y="-13.0810" textLength="6.6331" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">JACHO</text>
 <g class="stroked-text"><desc>JACHO</desc>
 <path d="M1.7357 -14.4141 L1.7357 -13.5069 "/>
 <path d="M1.7357 -13.5069 L1.6752 -13.3255 "/>
@@ -543,7 +543,7 @@
 <path d="M5.9690 -13.9907 L6.0295 -14.2326 "/>
 <path d="M6.0295 -14.2326 L6.1504 -14.3536 "/>
 <path d="M6.1504 -14.3536 L6.2714 -14.4141 "/>
-</g><text x="4.0640" y="-11.0490" textLength="5.3341" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">2019</text>
+</g><text x="4.0640" y="-11.0490" textLength="5.4841" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">2019</text>
 <g class="stroked-text"><desc>2019</desc>
 <path d="M1.8869 -12.2611 L1.9473 -12.3216 "/>
 <path d="M1.9473 -12.3216 L2.0683 -12.3821 "/>
@@ -602,7 +602,7 @@
 <path d="M6.1202 -11.6564 L6.1807 -11.7168 "/>
 <path d="M6.1807 -11.7168 L6.2411 -11.8378 "/>
 </g><g transform="rotate(-90.000000 10.6616 -26.9240)">
-<text x="10.6616" y="-26.2890" textLength="9.8698" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">POWER IN</text>
+<text x="10.6616" y="-26.2890" textLength="10.0198" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">POWER IN</text>
 </g>
 <g class="stroked-text"><desc>POWER IN</desc>
 <path d="M11.2336 -22.5395 L9.9636 -22.5395 "/>
@@ -655,7 +655,7 @@
 <path d="M9.9636 -30.5828 L11.2336 -31.3085 "/>
 <path d="M11.2336 -31.3085 L9.9636 -31.3085 "/>
 </g><g transform="rotate(-90.000000 12.7063 -26.9240)">
-<text x="12.7063" y="-26.2890" textLength="7.3903" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1.8-5V</text>
+<text x="12.7063" y="-26.2890" textLength="7.5403" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1.8-5V</text>
 </g>
 <g class="stroked-text"><desc>1.8-5V</desc>
 <path d="M13.2783 -24.4445 L13.2783 -23.7188 "/>
@@ -718,7 +718,7 @@
 <path d="M12.0083 -29.4035 L13.2783 -29.8269 "/>
 <path d="M13.2783 -29.8269 L12.0083 -30.2502 "/>
 </g><g transform="rotate(-90.000000 10.6616 -14.2240)">
-<text x="10.6616" y="-13.5890" textLength="11.5631" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">POWER OUT</text>
+<text x="10.6616" y="-13.5890" textLength="11.7131" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">POWER OUT</text>
 </g>
 <g class="stroked-text"><desc>POWER OUT</desc>
 <path d="M11.2336 -8.9928 L9.9636 -8.9928 "/>
@@ -794,7 +794,7 @@
 <path d="M9.9636 -18.9109 L9.9636 -19.6366 "/>
 <path d="M11.2336 -19.2738 L9.9636 -19.2738 "/>
 </g><g transform="rotate(-90.000000 12.7063 -14.2240)">
-<text x="12.7063" y="-13.5890" textLength="9.3255" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">MAX 28V!</text>
+<text x="12.7063" y="-13.5890" textLength="9.4755" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">MAX 28V!</text>
 </g>
 <g class="stroked-text"><desc>MAX 28V!</desc>
 <path d="M13.2783 -10.1116 L12.0083 -10.1116 "/>
@@ -860,7 +860,7 @@
 <path d="M12.0688 -18.3969 L12.7945 -18.3364 "/>
 <path d="M12.7945 -18.3364 L12.0083 -18.3364 "/>
 </g><g transform="rotate(-90.000000 2.5400 -26.4160)">
-<text x="2.5400" y="-25.7810" textLength="2.9755" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="start" opacity="0">EN</text>
+<text x="2.5400" y="-25.7810" textLength="3.1255" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="start" opacity="0">EN</text>
 </g>
 <g class="stroked-text"><desc>EN</desc>
 <path d="M2.4467 -26.9157 L2.4467 -27.3391 "/>
@@ -871,7 +871,7 @@
 <path d="M1.8419 -28.0648 L3.1119 -28.7905 "/>
 <path d="M3.1119 -28.7905 L1.8419 -28.7905 "/>
 </g><g transform="rotate(-90.000000 2.5400 -20.8280)">
-<text x="2.5400" y="-20.1930" textLength="4.3665" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="end" opacity="0">GND</text>
+<text x="2.5400" y="-20.1930" textLength="4.5165" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="end" opacity="0">GND</text>
 </g>
 <g class="stroked-text"><desc>GND</desc>
 <path d="M1.9024 -17.7278 L1.8419 -17.6068 "/>
@@ -906,7 +906,7 @@
 <path d="M3.0514 -20.1468 L3.1119 -19.9654 "/>
 <path d="M3.1119 -19.9654 L3.1119 -19.6630 "/>
 </g><g transform="rotate(-90.000000 5.5880 -21.8440)">
-<text x="5.5880" y="-21.2090" textLength="8.4184" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">MLAB.CZ</text>
+<text x="5.5880" y="-21.2090" textLength="8.5684" font-size="1.6933" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">MLAB.CZ</text>
 </g>
 <g class="stroked-text"><desc>MLAB.CZ</desc>
 <path d="M6.1599 -18.1852 L4.8899 -18.1852 "/>
@@ -961,14 +961,14 @@
 <path d="M6.1599 -24.7771 L6.1599 -25.6238 "/>
 </g></g>
 <g style="fill-opacity: 0.0;stroke-width: 0.0500;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<text x="14.0970" y="-29.3410" textLength="0.5012" font-size="0.6667" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1</text>
+<text x="14.0970" y="-29.3410" textLength="0.5262" font-size="0.6667" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1</text>
 <g class="stroked-text"><desc>1</desc>
 <path d="M14.2399 -29.3623 L13.9541 -29.3623 "/>
 <path d="M14.0970 -29.3623 L14.0970 -29.8623 "/>
 <path d="M14.0970 -29.8623 L14.0494 -29.7909 "/>
 <path d="M14.0494 -29.7909 L14.0018 -29.7432 "/>
 <path d="M14.0018 -29.7432 L13.9541 -29.7194 "/>
-</g><text x="14.0970" y="-17.5300" textLength="0.5012" font-size="0.6667" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1</text>
+</g><text x="14.0970" y="-17.5300" textLength="0.5262" font-size="0.6667" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1</text>
 <g class="stroked-text"><desc>1</desc>
 <path d="M14.2399 -17.5513 L13.9541 -17.5513 "/>
 <path d="M14.0970 -17.5513 L14.0970 -18.0513 "/>
