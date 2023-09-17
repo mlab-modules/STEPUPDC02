@@ -2,6 +2,7 @@ description: Step-up converter. Vin 1,8 V - 5 V, Vout up to 28 V.
 github_branch: STEPUPDC02A
 github_branches:
 - STEPUPDC02A
+github_description: Step-up converter. Vin 1,8 V - 5 V, Vout up to 28 V.
 github_repo: STEPUPDC02
 github_url: https://github.com/mlab-modules/STEPUPDC02
 homepage: false
@@ -36,4 +37,4 @@ tags:
 - mlab-kicad
 - pcb
 title: STEPUPDC02
-updated: '2023-09-16T22:03:19.576411+00:00'
+updated: '2023-09-17T11:30:28.051392+00:00'
